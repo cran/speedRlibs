@@ -1,13 +1,13 @@
-554fe805a97bd7310196df51740cd964 *DESCRIPTION
+13a82e94611be772d32463aa7e97043e *DESCRIPTION
 d41d8cd98f00b204e9800998ecf8427e *NAMESPACE
 d41d8cd98f00b204e9800998ecf8427e *R/libs.R
 b517e3fd5f3b5bbaf973918ba2f48ffc *inst/NOTICE
 f8f1352c52a4c6a500b597596501fc64 *inst/java/antlr-2.7.7.jar
 ee50af1761e704f5330997233fc632af *inst/java/antlr-runtime-3.2.jar
-81349d9076befafaa7624006376b39a6 *inst/java/commons-lang3-3.0-beta.jar
+71b48e6b3e1b1dc73fe705604b9c7584 *inst/java/commons-lang3-3.1.jar
 b452e021e8f3650906aa6bd9b561779b *inst/java/docking-frames-common-1.1.0.jar
 cb8bdad56dd45d2fb6a118bd42c83d10 *inst/java/docking-frames-core-1.1.0.jar
-651993d3a059d16dfd819df822595634 *inst/java/dockingframes-ext.jar
+58252a120a74e56121fca06201ca4bf0 *inst/java/dockingframes-ext.jar
 4d8f51d3fe3900efc6e395be48030d6d *inst/java/dom4j-1.6.1.jar
 67a895070c3cd449ddc30dc50d202db7 *inst/java/geronimo-stax-api_1.0_spec-1.0.jar
 7c882c8d734e50112000e4a88e06c535 *inst/java/google-collections-1.0.jar
