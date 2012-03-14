@@ -1,5 +1,5 @@
 Package: speedRlibs
-Version: 1.1-33
+Version: 1.1-35
 Title: Package containing the required libraries (jars) for speedR
 Author: Ilhami Visne
 Maintainer: Ilhami Visne <ilhami.visne@ait.ac.at>
@@ -9,6 +9,6 @@ Description: speedRlibs is a container for the required libraries
         updated like speedR.  Thus it reduces the download time after
         the first installation.
 License: LGPL (>= 2.1)
-Packaged: 2012-02-26 22:31:27 UTC; visnei
+Packaged: 2012-03-14 13:27:53 UTC; visnei
 Repository: CRAN
-Date/Publication: 2012-02-27 07:36:03
+Date/Publication: 2012-03-15 11:11:52
